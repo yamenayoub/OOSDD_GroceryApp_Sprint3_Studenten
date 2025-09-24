@@ -2,7 +2,7 @@ name: UC08/unit-testing-searchProducts
 
 on:
   push:
-    branches: [ "main", "release", "develop"]
+    branches: [ "main", "release", "develop", "feature/UC08-Zoeken-producten-aanvullen"]
   pull_request:
     branches: [ "main", "release", "develop" ]
 
